@@ -177,6 +177,10 @@ void loop() {
   server.handleClient();
 }
 ```
+## Output:
+
+![proj](https://github.com/user-attachments/assets/1c91c1b2-fee2-4eaf-bc1d-f9f8292117ef)
+
 
 ## CONCLUSION:
 The Voice-Controlled Home Automation system successfully demonstrates how modern IoT technology and wireless communication can be combined to create a convenient, efficient, and user-friendly smart home solution. By using voice commands processed through a web-based interface and WiFi connectivity, the system allows users to control household appliances such as lights and fans with ease.
